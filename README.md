@@ -19,7 +19,7 @@ still need to figure out how to make links to other files in a Github repo.
 ## Resources
 ---
 
-- SaaS Inspiration
+### SaaS Inspiration
     - [Marc Lou SaaS page](https://marclou.com/)
 
 
