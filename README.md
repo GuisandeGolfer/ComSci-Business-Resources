@@ -23,4 +23,36 @@ still need to figure out how to make links to other files in a Github repo.
 
 - [Marc Lou SaaS page](https://marclou.com/)
 
+### Data Structures & Algorithms
+
+- [Visual Data Structures Cheatsheet](https://photonlines.substack.com/p/visual-data-structures-cheat-sheet)
+
+### Programming Languages
+
+#### Go
+- [Awesome Go resources](https://github.com/avelino/awesome-go?tab=readme-ov-file)
+
+#### C / C++
+
+- [Learn C++ with Me YouTube Playlist](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lmGC8VW0iu6qfMHjy7gLQ3)
+
+### Vim
+
+- [Learning Vim for the last time](https://danielmiessler.com/p/vim/)
+- [Primeagean Vim RC](https://www.youtube.com/watch?v=w7i4amO_zaE&t=1s)
+
+
+### Programming Problem Solving
+
+- [Code Wars](https://www.codewars.com/)
+
+
+
+
+
+
+
+
+
+
 
