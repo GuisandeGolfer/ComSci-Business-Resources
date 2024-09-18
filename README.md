@@ -19,6 +19,15 @@ still need to figure out how to make links to other files in a Github repo.
 ## Resources
 ---
 
+### MacOS Customization
+
+#### Karabiner
+
+- [Karabiner God Mode](https://medium.com/@nikitavoloboev/karabiner-god-mode-7407a5ddc8f6)
+- [Hacking Your Keyboard with Karabiner](https://kau.sh/blog/hacking-your-keyboard/)
+- [GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo/blob/master/tutorial.md)
+    - [Goku Example EDN file](https://github.com/kaushikgopal/dotfiles/blob/master/.karabiner.edn)
+
 ### SaaS Inspiration
 
 - [Marc Lou SaaS page](https://marclou.com/)
