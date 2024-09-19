@@ -27,6 +27,7 @@ still need to figure out how to make links to other files in a Github repo.
 - [Hacking Your Keyboard with Karabiner](https://kau.sh/blog/hacking-your-keyboard/)
 - [GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo/blob/master/tutorial.md)
     - [Goku Example EDN file](https://github.com/kaushikgopal/dotfiles/blob/master/.karabiner.edn)
+- [Karabiner Everything I Know](https://wiki.nikiv.dev/macOS/apps/karabiner/)
 
 ### SaaS Inspiration
 
