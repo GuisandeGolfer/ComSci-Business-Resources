@@ -42,6 +42,10 @@ still need to figure out how to make links to other files in a Github repo.
 #### Go
 - [Awesome Go resources](https://github.com/avelino/awesome-go?tab=readme-ov-file)
 
+#### Rust
+
+- [Rust Web Programming Book](https://www.amazon.com/Rust-Web-Programming-hands-programming-ebook/dp/B08PDFR2M9?qid=&sr=)
+
 #### C / C++
 
 - [Learn C++ with Me YouTube Playlist](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lmGC8VW0iu6qfMHjy7gLQ3)
